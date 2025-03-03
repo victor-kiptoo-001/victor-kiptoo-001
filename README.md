@@ -1,5 +1,8 @@
 # Hi there! 👋 I'm Victor Kiptoo  
 
+![Profile Views](https://komarev.com/ghpvc/?username=victor-kiptoo-001&label=Profile%20Views&color=blue&style=flat)  
+
+
 🚀 **Software Developer | Open Source Contributor | Tech Enthusiast**  
 
 I specialize in **front-end and back-end development**, with a focus on creating efficient and scalable applications. I love collaborating on open-source projects and continuously learning new technologies.  
