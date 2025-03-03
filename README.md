@@ -16,6 +16,7 @@ I specialize in **front-end and back-end development**, with a focus on creating
 
 
 ## 📫 Connect With Me  
-🔗 [GitHub](https://github.com/victor-kiptoo-001) | 📧 Email: veelangat680@gmail.com* | 💼 [LinkedIn](https://linkedin.com/in/victor-kiptoo)  
+🔗 [GitHub](https://github.com/victor-kiptoo-001) | 📧 Email: veelangat680@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/victor-kiptoo) | 📲 [WhatsApp](https://wa.me/254796681150?text=Hello%20Victor,%20I%20found%20you%20on%20GitHub!)
+ 
 
 Let's build something amazing together! 🚀✨  
