@@ -1,16 +1,21 @@
-## Hi there! 👋 I'm Victor Kiptoo
+# Hi there! 👋 I'm Victor Kiptoo  
 
-### 📊 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victor-kiptoo-001&show_icons=true&theme=dark)
+🚀 **Software Developer | Open Source Contributor | Tech Enthusiast**  
 
-### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-kiptoo-001&theme=dark)
+I specialize in **front-end and back-end development**, with a focus on creating efficient and scalable applications. I love collaborating on open-source projects and continuously learning new technologies.  
 
-### 🚀 Most Used Languages:
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victor-kiptoo-001&layout=compact&theme=dark)
 
-### 🌟 GitHub Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victor-kiptoo-001&theme=react)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victor-kiptoo-001&show_icons=true&theme=dark)  
 
-### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=victor-kiptoo-001&theme=onedark)
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-kiptoo-001&theme=dark)  
+
+## 🚀 Most Used Languages  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victor-kiptoo-001&layout=compact&theme=dark)  
+
+
+## 📫 Connect With Me  
+🔗 [GitHub](https://github.com/victor-kiptoo-001) | 📧 Email: veelangat680@gmail.com* | 💼 [LinkedIn](https://linkedin.com/in/victor-kiptoo)  
+
+Let's build something amazing together! 🚀✨  
