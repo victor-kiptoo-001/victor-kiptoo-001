@@ -6,7 +6,7 @@ I specialize in **front-end and back-end development**, with a focus on creating
 
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victor-kiptoo-001&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victor-kiptoo-001&show_icons=true&theme=dark&hide_rank=true)  
 
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-kiptoo-001&theme=dark)  
