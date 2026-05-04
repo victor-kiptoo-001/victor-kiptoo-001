@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Victor Kiptoo  
+# Hi there!  I'm Victor Kiptoo  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=victor-kiptoo-001&label=Profile%20Views&color=blue&style=flat)  
 
